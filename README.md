@@ -1,12 +1,8 @@
-# 云开发 quickstart
+# 关于本程序
 
-这是云开发的快速启动指引，其中演示了如何上手使用云开发的三大基础能力：
+利用业余时间开发的小工具，如有侵权，请联系删除下架，联系邮箱(haoqiusu@qq.com)
 
-- 数据库：一个既可在小程序前端操作，也能在云函数中读写的 JSON 文档型数据库
-- 文件存储：在小程序前端直接上传/下载云端文件，在云开发控制台可视化管理
-- 云函数：在云端运行的代码，微信私有协议天然鉴权，开发者只需编写业务逻辑代码
+## 数据出处
 
-## 参考文档
-
-- [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
-
+- 怪物牵制和弱点的数据：[怪物猎人物语2 wiki](http://mhst2.gamekee.com/83616.html), 感谢整理数据的大佬！
+- 怪物的图片：[Kiranico | MHStories 2](https://mhst.kiranico.com/zh/mhs2)
