@@ -1,0 +1,33 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/setting/index"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "MHS2牵制查询",
+    "navigationBarTextStyle": "black"
+  },
+  "useExtendedLib": {},
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "tabBar": {
+    "selectedColor": "#333333",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text":"首页",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home-fill.png"
+      },
+      {
+        "pagePath": "pages/setting/index",
+        "text":"设置",
+        "iconPath": "images/setting.png",
+        "selectedIconPath": "images/setting-fill.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+"D:\Program Files (x86)\Tencent\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-8gxbbe56d00674c4 --n quickstartFunctions --r --project "D:\Project\MHS2Tool" --report

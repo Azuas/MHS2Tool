@@ -1,0 +1,15 @@
+<view class="page">
+  <view class="page__hd">
+  </view>
+  <view class="page__bd">
+    <mp-cells title="设置" footer="注意不要长时间亮屏，防止烧屏">
+      <mp-cell title="屏幕常亮" ext-class="">
+        <view class="weui-cell__ft">
+          <switch checked="{{lightChecked}}" bindchange="lightChange" />
+        </view>
+      </mp-cell>
+
+    </mp-cells>
+
+  </view>
+</view>

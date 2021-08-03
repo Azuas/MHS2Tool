@@ -1,0 +1,44 @@
+.weui-search-bar__label text {
+  display: inline-block;
+  font-size: 14px;
+  vertical-align: middle
+}
+
+.cell-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 4;
+}
+
+.cell-action {
+  display: flex;
+  padding-left: 10rpx;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  font-size: 30rpx;
+  flex: 5;
+}
+
+.cell-weak {
+  display: flex;
+  padding-left: 10rpx;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  font-size: 30rpx;
+  flex: 6;
+}
+
+.power {
+  color: #FA5151;
+}
+
+.speed {
+  color: #1485EE;
+}
+
+.skill {
+  color: #07C160;
+}
